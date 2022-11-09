@@ -3,6 +3,21 @@ body {
     font-family:arial,sans-serif;
 }
 
+#links{
+    position:absolute;
+    right:20px;
+    top:20px;
+}
+a {
+    color:rgb(220,220,220);
+    font-size:15px;
+    padding:10px;
+    text-decoration:none;
+}
+a:hover {
+    color: rgb(180,180,180);
+}
+
 #logo {
     width:100px;
     margin-top:10px;
